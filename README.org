@@ -2,9 +2,8 @@
 
 A Common Lisp queue library with features such as non-consing thread safe queues and fibonacci priority queues
 
-|---------+-------------------------------------------|
-| source  | git:https://github.com/oconnore/queues.git   |
-| commit  | 47d4da6  |
-| systems | queues |
-|---------+-------------------------------------------|
-
+|---------+----------------------------------------------------------------------------------------------|
+| source  | git:https://github.com/oconnore/queues.git                                                   |
+| commit  | 47d4da6                                                                                      |
+| systems | queues queues.simple-queue queues.simple-cqueue queues.priority-queue queues.priority-cqueue |
+|---------+----------------------------------------------------------------------------------------------|
